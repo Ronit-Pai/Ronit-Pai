@@ -1,4 +1,5 @@
-#👋 Hi There , I’m Ronit-Pai
+# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Ronit Pai</h1>
 
 - 
   ## 📊 GitHub Stats:

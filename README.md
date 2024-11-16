@@ -1,4 +1,4 @@
-- #👋 Hi There , I’m Ronit-Pai
+#👋 Hi There , I’m Ronit-Pai
 
 - 
   ## 📊 GitHub Stats:

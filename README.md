@@ -1,4 +1,4 @@
-- 👋 Hi There , I’m @Ronit-Pai
+- ##👋 Hi There , I’m Ronit-Pai
 
 - 
   ## 📊 GitHub Stats:
@@ -17,5 +17,3 @@
 
 ---
 [![visitors](https://visitcount.itsvg.in/api?id=Madvith-d&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Pai)](https://github.com/madvith-d/github-readme-stats)

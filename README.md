@@ -9,12 +9,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Pai&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
----
 
 ## 🏆 GitHub Trophies:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ronit-Pai&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
+
 ---
+
 [![visitors](https://visitcount.itsvg.in/api?id=Madvith-d&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)

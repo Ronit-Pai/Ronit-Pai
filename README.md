@@ -15,7 +15,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ronit-Pai&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-
----
-
-[![visitors](https://visitcount.itsvg.in/api?id=Ronit-Pai&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)

@@ -127,7 +127,12 @@ I'm a passionate **Frontend Developer and ML Enthusiast** from India, specializi
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ronit-Pai&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=8" alt="GitHub Stats"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Pai&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8" alt="Top Languages"/>
+  <img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Pai&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8&cache_seconds=3600" 
+  alt="Top Languages" 
+/>
+
   
 </div>
 

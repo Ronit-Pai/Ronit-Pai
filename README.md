@@ -146,11 +146,10 @@ I'm a passionate **Frontend Developer and ML Enthusiast** from India, specializi
 
 ## 📈 Contribution Graph  
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronit-Pai&theme=tokyo-night&hide_border=true&rand=1" alt="Ronit's GitHub Activity Graph">
+</p>
 
-![Ronit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ronit-Pai&theme=tokyo-night&hide_border=true)
-
-</div>
 
 ---
 

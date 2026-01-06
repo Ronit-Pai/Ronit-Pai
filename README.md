@@ -124,23 +124,31 @@ I'm a passionate **Frontend Developer and ML Enthusiast** from India, specializi
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ronit-Pai&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=8" alt="GitHub Stats"/>
-  
-  <img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Pai&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8&cache_seconds=3600" 
-  alt="Top Languages" 
-/>
 
   
+  <img
+    height="180px"
+    src="https://github-readme-stats.vercel.app/api?username=Ronit-Pai&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"
+  />
+
+  
+  <img
+    height="180px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Pai&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
+  />
+
 </div>
 
 <div align="center">
+
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronit-Pai&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&border_radius=8" alt="GitHub Streak Stats"/>
-  
+  <img
+    height="180px"
+    src="https://streak-stats.demolab.com/?user=Ronit-Pai&theme=tokyonight&hide_border=true"
+  />
+
 </div>
+
 
 ---
 

@@ -128,22 +128,6 @@ I'm a passionate **Frontend Developer and ML Enthusiast** from India, specializi
   
   <img
     height="180px"
-    src="https://github-readme-stats.vercel.app/api?username=Ronit-Pai&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"
-  />
-
-  
-  <img
-    height="180px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit-Pai&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
-  />
-
-</div>
-
-<div align="center">
-
-  
-  <img
-    height="180px"
     src="https://streak-stats.demolab.com/?user=Ronit-Pai&theme=tokyonight&hide_border=true"
   />
 

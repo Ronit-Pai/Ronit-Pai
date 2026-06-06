@@ -128,7 +128,7 @@ I'm a passionate **Frontend Developer and ML Enthusiast** from India, specializi
   
   <img
     height="180px"
-    src="https://streak-stats.demolab.com/?user=Ronit-Pai&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=ronit-pai&theme=tokyonight&hide_border=true"
   />
 
 </div>
